@@ -1,7 +1,7 @@
 package com.demo.book.service;
 
-import com.demo.book.model.Comment;
 import com.demo.book.repository.CommentMapper;
+import com.demo.book.model.Comment;
 import org.springframework.stereotype.Service;
 
 import java.util.Date;

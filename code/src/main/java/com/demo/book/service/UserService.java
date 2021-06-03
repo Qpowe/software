@@ -1,5 +1,6 @@
 package com.demo.book.service;
 
+import com.demo.book.repository.UserMapper;
 import com.demo.book.model.User;
 import org.springframework.stereotype.Service;
 

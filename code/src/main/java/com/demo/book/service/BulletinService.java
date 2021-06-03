@@ -1,7 +1,7 @@
 package com.demo.book.service;
 
-import com.demo.book.model.Bulletin;
 import com.demo.book.repository.BulletinMapper;
+import com.demo.book.model.Bulletin;
 import org.springframework.stereotype.Service;
 
 @Service
